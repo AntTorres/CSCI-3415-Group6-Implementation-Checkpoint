@@ -1,3 +1,12 @@
 # Scala-generated files
 .scala-build/
 .bsp/
+
+# Mercury build directory
+Mercury/
+
+# Generated files for this program
+mercury_data_types_or_binding
+mercury_data_types_or_binding.exe
+mercury_data_types_or_binding.err
+mercury_data_types_or_binding.mh
